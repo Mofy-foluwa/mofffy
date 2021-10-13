@@ -3,3 +3,5 @@
 name="Olutayo-David Oluwadamilola"
 
 emailaddress <-"olutayordavemofy@gmail.com"
+
+"@mofy" -> slackusername
